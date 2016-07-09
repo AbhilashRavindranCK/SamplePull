@@ -11,6 +11,7 @@ namespace SamplePull
         static void Main(string[] args)
         {
             Console.WriteLine("Sample Pull Test");
+            Console.WriteLine("Sample Pull Test Initial Change");
         }
     }
 }
